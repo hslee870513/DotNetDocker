@@ -1,0 +1,15 @@
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/dotnet0524.deps.json
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/dotnet0524.runtimeconfig.json
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/dotnet0524.runtimeconfig.dev.json
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/dotnet0524.dll
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/ref/dotnet0524.dll
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/dotnet0524.pdb
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.csprojAssemblyReference.cache
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.GeneratedMSBuildEditorConfig.editorconfig
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.AssemblyInfoInputs.cache
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.AssemblyInfo.cs
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.csproj.CoreCompileInputs.cache
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.dll
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/ref/dotnet0524.dll
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.pdb
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/Release/net5.0/dotnet0524.genruntimeconfig.cache

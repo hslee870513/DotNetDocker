@@ -1,0 +1,4 @@
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/publish/dotnet0524.dll
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/publish/dotnet0524.deps.json
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/publish/dotnet0524.runtimeconfig.json
+/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/bin/Release/net5.0/publish/dotnet0524.pdb
