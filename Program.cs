@@ -12,7 +12,7 @@ namespace dotnet0524
             for (int i = 0; i < 1000; i++)
             {
                 Thread.Sleep(1000);
-                Console.WriteLine(pro.myFunction());
+                Console.WriteLine(pro.myFunction() + Convert.ToString(i));
             }
         }
 

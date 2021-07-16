@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oQ+WZs3MPoPo33DXrOFGirhLcxP9MxhrK4STKh3qvrDwgbVsT2WJYqmXrAh7fOt08f73+vaGDBh6x57c0sYqIw==",
+  "dgSpecHash": "qpDbdjOaft/gtscdlgwlaEqPTzVFXWM8xWDdG9sWCejux/KWNR89CfBVUA+FM+ly3rRHSmB6BFZtdE8FP1h9EQ==",
   "success": true,
-  "projectFilePath": "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/dotnet0524.csproj",
+  "projectFilePath": "/root/DotNetDocker/dotnet0524.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

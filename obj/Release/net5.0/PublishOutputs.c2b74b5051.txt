@@ -1,0 +1,5 @@
+/root/DotNetDocker/bin/Release/net5.0/publish/dotnet0524
+/root/DotNetDocker/bin/Release/net5.0/publish/dotnet0524.dll
+/root/DotNetDocker/bin/Release/net5.0/publish/dotnet0524.deps.json
+/root/DotNetDocker/bin/Release/net5.0/publish/dotnet0524.runtimeconfig.json
+/root/DotNetDocker/bin/Release/net5.0/publish/dotnet0524.pdb

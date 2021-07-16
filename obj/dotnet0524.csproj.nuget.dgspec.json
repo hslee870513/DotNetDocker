@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/dotnet0524.csproj": {}
+    "/root/DotNetDocker/dotnet0524.csproj": {}
   },
   "projects": {
-    "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/dotnet0524.csproj": {
+    "/root/DotNetDocker/dotnet0524.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/dotnet0524.csproj",
+        "projectUniqueName": "/root/DotNetDocker/dotnet0524.csproj",
         "projectName": "dotnet0524",
-        "projectPath": "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/dotnet0524.csproj",
-        "packagesPath": "/Users/codingstar/.nuget/packages/",
-        "outputPath": "/Users/codingstar/Documents/workspaces_Docker/DNDocker/dotnet0524/obj/",
+        "projectPath": "/root/DotNetDocker/dotnet0524.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/root/DotNetDocker/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/codingstar/.nuget/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -55,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/5.0.205/RuntimeIdentifierGraph.json"
         }
       }
     }
